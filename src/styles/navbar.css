@@ -1,0 +1,10 @@
+nav {
+    z-index: 1;
+    transition-timing-function: ease-in;
+    transition: all .5s;
+}
+
+.show__black {
+    background-color: #000;
+    transition: all .8s;
+}
